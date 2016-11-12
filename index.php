@@ -59,7 +59,6 @@
 					<li><a href="#">Vestidos</a></li>
 					<li><a href="#">Sapatos</a></li>
 					<li><a href="#">Bolsas e Carteiras</a></li>
-					<li><a href="#">Acessórios</a></li>
 				</ul>
 			</nav>
 
